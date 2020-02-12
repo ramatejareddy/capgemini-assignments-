@@ -38,6 +38,7 @@ public class TrafficLightFun  {
 		{
 			System.out.println(errormsg);
 		}
+		input.close();
 	}
 
 
